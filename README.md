@@ -37,15 +37,14 @@
 | 📝 **Fibonacci Memoization** | Python implementation of Fibonacci with memoization | [View](https://github.com/german-boop/-fibonacci-memoization) |
 
 *More projects coming soon!* 🚀
-
----
-
 ## 📊 GitHub Stats
-![Premier848's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical)  
+---
+[![Premier848's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical)](https://github.com/Premier848)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Premier848&theme=radical&no-frame=true&row=1&column=5)
+![Trophies][![Trophies](https://github-profile-trophy.vercel.app/?username=Premier848&theme=radical&no-frame=true&row=1&column=5)](https://github.com/Premier848)
 
 ---
 
