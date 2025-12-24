@@ -1,64 +1,71 @@
 # 👋 Hi, I'm Premier848
 
-![Python GIF](https://media.giphy.com/media/3o7TKr49E8Gv3yT5C0/giphy.gif)
+![Python Animated GIF](https://media.giphy.com/media/3o7TKr49E8Gv3yT5C0/giphy.gif)  
+<!-- Animated Python GIF for a professional, techy feel -->
 
-🌟 Aspiring Python Developer | Beginner | Open Source Enthusiast
+🌟 **Aspiring Python Developer | Beginner | Open Source Enthusiast**
 
 ---
 
 ## 🚀 About Me
 👨‍💻 Beginner Python developer  
-💡 Learning Python, CLI tools, small apps, automations  
-🎯 Goal: Contribute to open-source projects  
-🌱 Always learning new technologies
+💡 Passionate about learning Python, building CLI tools, small apps, and automations  
+🎯 Goal: Become a skilled Python programmer and contribute to open-source projects  
+🌱 Always learning new technologies and best practices  
 
 ---
 
 ## 🛠️ Skills & Progress
-**Python:**  
-<details>
-<summary>70%</summary>
-![Python Bar](https://progress-bar.dev/70/?title=Python&color=brightgreen)
-</details>
+<!-- Animated skill bars with shields.io -->
+**Python:** ![Python](https://img.shields.io/badge/Python-70%25-brightgreen)  
+**Git & GitHub:** ![Git & GitHub](https://img.shields.io/badge/GitHub-80%25-blue)  
+**HTML/CSS:** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-60%25-orange)  
+**SQL:** ![SQL](https://img.shields.io/badge/SQL-50%25-yellow)  
+**VS Code:** ![VS Code](https://img.shields.io/badge/VS%20Code-90%25-purple)
 
-**Git & GitHub:**  
-<details>
-<summary>80%</summary>
-![GitHub Bar](https://progress-bar.dev/80/?title=GitHub&color=blue)
-</details>
-
-**HTML/CSS:**  
-<details>
-<summary>60%</summary>
-![HTML/CSS Bar](https://progress-bar.dev/60/?title=HTML%2FCSS&color=orange)
-</details>
-
-**SQL:**  
-<details>
-<summary>50%</summary>
-![SQL Bar](https://progress-bar.dev/50/?title=SQL&color=yellow)
-</details>
-
-**VS Code:**  
-<details>
-<summary>90%</summary>
-![VS Code Bar](https://progress-bar.dev/90/?title=VS%20Code&color=purple)
-</details>
+> These shields dynamically display skill level and are more visually interactive than static bars.
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| 🌟 Simple Phonebook | CLI Python project with emojis | [Repo](https://github.com/Premier848/simple-phonebook) |
+| 📝 Python Quiz | Fun Python quiz game | [Repo](https://github.com/Premier848/python-quiz) |
+| 🔧 Automation Scripts | Small Python scripts for everyday tasks | [Repo](https://github.com/Premier848/automation-scripts) |
+| 🚀 More coming soon! | Stay tuned | - |
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
 ![Premier848 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=false)  
 
-![Premier848 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)
+![Premier848 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical&hide_title=false)
+
+> Stats are dynamically loaded from your GitHub profile and refresh automatically.
 
 ---
 
 ## 📫 Connect with Me
+Let's connect! 🌐  
+
 [![Telegram](https://img.shields.io/badge/Telegram-@premier848-blue?logo=telegram&logoColor=white)](https://t.me/premier848)  
 [![TikTok](https://img.shields.io/badge/TikTok-premier848_-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@premier848_)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Premier848🙂-green?logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Premier848🙂-green?logo=whatsapp&logoColor=white)](https://wa.me/your-number)  
 
 ---
+
+## 💡 Fun Facts
+🎮 Gaming enthusiast  
+🎵 Music lover  
+🌱 Always learning Python tricks and coding best practices  
+
+---
+
+## 🔗 Quick Links
+- [All Repositories](https://github.com/Premier848?tab=repositories)  
+- [Projects Portfolio](https://github.com/Premier848)  
+- [Resume PDF](https://your-link-to-resume.pdf)  
 
 *"Every line of code is a step closer to mastery."* 🚀
