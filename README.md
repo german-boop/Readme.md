@@ -31,11 +31,10 @@
 
 ## 📂 Projects
 
-| Project | Description | Demo / Repo |
+| Project | Description | GitHub Repo |
 |---------|-------------|-------------|
-| 🌟 **Simple Phonebook** | CLI Python project with emojis | [View](https://github.com/Premier848/simple-phonebook) |
-| 📝 **Python Quiz** | Fun Python quiz game | [View](https://github.com/Premier848/python-quiz) |
-| 🔧 **Automation Scripts** | Small Python scripts for everyday tasks | [View](https://github.com/Premier848/automation-scripts) |
+| 🌟 **Simple Phonebook** | CLI Python project with emojis | [View](https://github.com/german-boop/simple-phonebook-python) |
+| 📝 **Fibonacci Memoization** | Python implementation of Fibonacci with memoization | [View](https://github.com/german-boop/-fibonacci-memoization) |
 
 *More projects coming soon!* 🚀
 
