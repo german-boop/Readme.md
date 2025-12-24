@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Premier848
 
-![Header GIF](https://camo.githubusercontent.com/2cd2c08d09b7ff2f6dbc0d652a61845d06a1d7ca461ea0774640494a8a2f43d6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f4b4950776f654745724d6d61493433432f67697068792e676966)
+![Header GIF](https://github.com/Premier848/Resume/raw/main/assets/header.gif)
 
 🌟 Aspiring Python Developer | Beginner | Open Source Enthusiast
 
@@ -31,12 +31,14 @@
 
 ## 📂 Projects
 
-| Project | Description | GitHub Repo |
+| Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| 🌟 **Simple Phonebook** | CLI Python project with emojis | [View](https://github.com/german-boop/simple-phonebook-python) |
-| 📝 **Fibonacci Memoization** | Python implementation of Fibonacci with memoization | [View](https://github.com/german-boop/-fibonacci-memoization) |
+| 🌟 **Simple Phonebook** | CLI Python project with emojis | [![Demo](https://github.com/Premier848/Resume/raw/main/assets/project1.gif)](https://github.com/german-boop/simple-phonebook-python) |
+| 📝 **Fibonacci Memoization** | Python implementation of Fibonacci with memoization | [![Demo](https://github.com/Premier848/Resume/raw/main/assets/project2.gif)](https://github.com/german-boop/-fibonacci-memoization) |
 
 *More projects coming soon!* 🚀
+
+> 💡 Tip: GIFs show preview on hover and link directly to the GitHub repository.
 
 ---
 
