@@ -1,50 +1,68 @@
-# Readme.mdg
-# Hi there! 👋 I'm Premier848
+# 👋 Hi, I'm Premier848
 
-🌟 **Aspiring Python Developer | Beginner Level | Open to Learning & Contributing**
+![Header GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+### 🌟 Aspiring Python Developer | Beginner | Open Source Enthusiast
 
 ---
 
 ## 🚀 About Me
-👨‍💻 I'm starting my journey in **Python programming**.  
-💡 I love creating **small projects** and learning best practices.  
-🎯 My goal: Improve coding skills, contribute to open-source, and grow as a developer.  
-📚 Currently focusing on **Python basics, small projects, and GitHub contributions**.
+👨‍💻 Beginner Python developer  
+💡 Passionate about learning **Python**, building **CLI tools**, small apps, and automations  
+🎯 Goal: Become a skilled Python programmer and contribute to **open-source projects**  
+🌱 Always learning new technologies and best practices  
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python 🐍, Basic SQL 💾, HTML & CSS 🌐  
-- **Tools:** Git & GitHub 🐙, VS Code 💻, Notepad++ ✏️  
-- **Areas of Interest:** Automation 🤖, Data Analysis 📊, CLI Tools ⚡
+## 🛠️ Skills & Progress
+**Python** | `████████░░░░ 70%`  
+**Git & GitHub** | `█████████░░ 80%`  
+**HTML/CSS** | `███████░░░░ 60%`  
+**SQL** | `█████░░░░░ 50%`  
+**VS Code** | `██████████ 90%`  
 
 ---
 
-## 📂 My Repositories
-Check out some of my projects:
+## 📂 Projects
+Here are some of my Python projects:
 
-- [Simple Phonebook with Emojis 🌟📞](#)  
-- [Python Quiz Project 📝](#)  
-- [Other small Python projects 🔧](#)  
+| Project | Description | Link |
+|---------|------------|------|
+| 🌟 Simple Phonebook | CLI Python project with emojis | [Repo](#) |
+| 📝 Python Quiz | Fun Python quiz game | [Repo](#) |
+| 🔧 Automation Scripts | Small Python scripts for everyday tasks | [Repo](#) |
 
 *More projects coming soon!*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=premier848&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premier848&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 Let's connect! 🌐  
 
-- Telegram: [@premier848](https://t.me/premier848)  
-- TikTok: [premier848_](https://www.tiktok.com/@premier848_)  
-- WhatsApp: Premier848🙂  
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/premier848)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@premier848_)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)  
 
 ---
 
-## 💬 Fun Fact
-🎮 I enjoy **gaming** in my free time.  
-🎵 Music keeps me motivated while coding.
+## 💡 Fun Facts
+🎮 Gaming enthusiast  
+🎵 Music lover  
+🌱 Always learning Python tricks and coding best practices  
+
+---
+
+## 🔗 Quick Links
+- [All Repositories](https://github.com/premier848?tab=repositories)  
+- [Projects Portfolio](#)  
+- [Resume PDF](#)  
+
+---
+
+> "Every line of code is a step closer to mastery." 🚀
