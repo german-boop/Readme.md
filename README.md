@@ -63,7 +63,7 @@ Let's connect! 🌐
 📄 Check out my resume:  
 [**Open Resume (PDF)**](https://github.com/Premier848/Resume/raw/main/Premier848_Resume.pdf)  
 
-> The link is open and anyone can view it without signing in.
+> The link is fully open and anyone can view it without signing in.
 
 ---
 
