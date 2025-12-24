@@ -30,13 +30,13 @@
 ---
 
 ## 📂 Projects
-Here are some of my Python projects (hover over GIFs for fun!):
+Hover over the GIFs to see them in action! 🎬
 
 | Project | Description | Demo / Repo |
 | ------- | ----------- | ----------- |
-| 🌟 **Simple Phonebook** | CLI Python project with emojis | ![GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) [Repo](https://github.com/Premier848/simple-phonebook) |
-| 📝 **Python Quiz** | Fun Python quiz game | ![GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif) [Repo](https://github.com/Premier848/python-quiz) |
-| 🔧 **Automation Scripts** | Small Python scripts for everyday tasks | ![GIF](https://media.giphy.com/media/l0HlJQkoUze1w6J1C/giphy.gif) [Repo](https://github.com/Premier848/automation-scripts) |
+| 🌟 **Simple Phonebook** | CLI Python project with emojis | [![Hover Me](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)](https://github.com/Premier848/simple-phonebook) |
+| 📝 **Python Quiz** | Fun Python quiz game | [![Hover Me](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)](https://github.com/Premier848/python-quiz) |
+| 🔧 **Automation Scripts** | Small Python scripts for everyday tasks | [![Hover Me](https://media.giphy.com/media/l0HlJQkoUze1w6J1C/giphy.gif)](https://github.com/Premier848/automation-scripts) |
 
 *More projects coming soon!* 🚀
 
@@ -48,16 +48,6 @@ Here are some of my Python projects (hover over GIFs for fun!):
 
 ![Premier848 GitHub stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)  
-
-</details>
-
----
-
-## 📈 Contribution Calendar
-<details>
-<summary>Hover to see contributions 🎨</summary>
-
-![Premier848's GitHub Contributions](https://github.com/Premier848.png?tab=overview&theme=dark)
 
 </details>
 
