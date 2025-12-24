@@ -54,7 +54,7 @@
 
 ## 📫 Connect with Me
 Let's connect! 🌐  
-[Telegram](https://t.me/premier848) | [TikTok](https://www.tiktok.com/@premier848_) | [WhatsApp](https://wa.me/YourNumberHere) | [LinkedIn](https://www.linkedin.com/)
+[Telegram](https://t.me/premier848) | [TikTok](https://www.tiktok.com/@premier848_) | [WhatsApp](https://wa.me/YourNumberHere)
 
 ---
 
