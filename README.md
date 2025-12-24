@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Premier848
 
-![Python Animated GIF](https://media.giphy.com/media/3o7TKr49E8Gv3yT5C0/giphy.gif)  
-<!-- Animated Python GIF for a professional, techy feel -->
+![Python Header GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
+<!-- Dynamic Python GIF for a professional look -->
 
 🌟 **Aspiring Python Developer | Beginner | Open Source Enthusiast**
 
@@ -16,18 +16,20 @@
 ---
 
 ## 🛠️ Skills & Progress
-<!-- Animated skill bars with shields.io -->
-**Python:** ![Python](https://img.shields.io/badge/Python-70%25-brightgreen)  
-**Git & GitHub:** ![Git & GitHub](https://img.shields.io/badge/GitHub-80%25-blue)  
-**HTML/CSS:** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-60%25-orange)  
-**SQL:** ![SQL](https://img.shields.io/badge/SQL-50%25-yellow)  
-**VS Code:** ![VS Code](https://img.shields.io/badge/VS%20Code-90%25-purple)
 
-> These shields dynamically display skill level and are more visually interactive than static bars.
+<!-- Using SVG progress bars from progress-bar.dev for dynamic look -->
+**Python:** ![Python](https://progress-bar.dev/70/?title=Python&color=4caf50)  
+**Git & GitHub:** ![Git & GitHub](https://progress-bar.dev/80/?title=GitHub&color=2196f3)  
+**HTML/CSS:** ![HTML/CSS](https://progress-bar.dev/60/?title=HTML%2FCSS&color=f44336)  
+**SQL:** ![SQL](https://progress-bar.dev/50/?title=SQL&color=ff9800)  
+**VS Code:** ![VS Code](https://progress-bar.dev/90/?title=VS%20Code&color=9c27b0)  
+
+> 🔥 These progress bars give a colorful visual representation of skill level.
 
 ---
 
 ## 📂 Projects
+
 | Project | Description | Link |
 |---------|-------------|------|
 | 🌟 Simple Phonebook | CLI Python project with emojis | [Repo](https://github.com/Premier848/simple-phonebook) |
@@ -37,13 +39,11 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats
 
-![Premier848 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=false)  
+![Premier848's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Premier848 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical&hide_title=false)
-
-> Stats are dynamically loaded from your GitHub profile and refresh automatically.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)
 
 ---
 
