@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Premier848
 
-![Python Header GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-<!-- Dynamic Python GIF for a professional look -->
+![Python Header GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  <!-- Cool coding GIF -->
 
 🌟 **Aspiring Python Developer | Beginner | Open Source Enthusiast**
 
@@ -17,14 +16,11 @@
 
 ## 🛠️ Skills & Progress
 
-<!-- Using SVG progress bars from progress-bar.dev for dynamic look -->
-**Python:** ![Python](https://progress-bar.dev/70/?title=Python&color=4caf50)  
-**Git & GitHub:** ![Git & GitHub](https://progress-bar.dev/80/?title=GitHub&color=2196f3)  
-**HTML/CSS:** ![HTML/CSS](https://progress-bar.dev/60/?title=HTML%2FCSS&color=f44336)  
-**SQL:** ![SQL](https://progress-bar.dev/50/?title=SQL&color=ff9800)  
-**VS Code:** ![VS Code](https://progress-bar.dev/90/?title=VS%20Code&color=9c27b0)  
-
-> 🔥 These progress bars give a colorful visual representation of skill level.
+![Python](https://img.shields.io/badge/Python-70%25-brightgreen)  
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-80%25-green)  
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-60%25-yellowgreen)  
+![SQL](https://img.shields.io/badge/SQL-50%25-orange)  
+![VS Code](https://img.shields.io/badge/VS%20Code-90%25-brightgreen)  
 
 ---
 
@@ -40,8 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Premier848's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Premier848's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)
 
