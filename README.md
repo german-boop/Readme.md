@@ -15,49 +15,56 @@
 ---
 
 ## 🛠️ Skills & Progress
-![Python](https://img.shields.io/badge/Python-70%25-green?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GitHub-80%25-black?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-60%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-60%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-50%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+<details>
+<summary>Click to see my skills progress 📊</summary>
+
+![Python](https://img.shields.io/badge/Python-70%25-green?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/GitHub-80%25-black?style=for-the-badge&logo=github&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-60%25-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-60%25-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-50%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
 
 ---
 
 ## 📂 Projects
-Here are some of my Python projects:
+Here are some of my Python projects (hover over GIFs for fun!):
 
 | Project | Description | Demo / Repo |
 | ------- | ----------- | ----------- |
-| 🌟 Simple Phonebook | CLI Python project with emojis | ![GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) [Repo](https://github.com/Premier848/simple-phonebook) |
-| 📝 Python Quiz | Fun Python quiz game | ![GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif) [Repo](https://github.com/Premier848/python-quiz) |
-| 🔧 Automation Scripts | Small Python scripts for everyday tasks | ![GIF](https://media.giphy.com/media/l0HlJQkoUze1w6J1C/giphy.gif) [Repo](https://github.com/Premier848/automation-scripts) |
+| 🌟 **Simple Phonebook** | CLI Python project with emojis | ![GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) [Repo](https://github.com/Premier848/simple-phonebook) |
+| 📝 **Python Quiz** | Fun Python quiz game | ![GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif) [Repo](https://github.com/Premier848/python-quiz) |
+| 🔧 **Automation Scripts** | Small Python scripts for everyday tasks | ![GIF](https://media.giphy.com/media/l0HlJQkoUze1w6J1C/giphy.gif) [Repo](https://github.com/Premier848/automation-scripts) |
 
 *More projects coming soon!* 🚀
 
 ---
 
 ## 📊 GitHub Stats
+<details>
+<summary>Click to expand stats 📈</summary>
+
 ![Premier848 GitHub stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)  
+
+</details>
 
 ---
 
 ## 📈 Contribution Calendar
+<details>
+<summary>Hover to see contributions 🎨</summary>
+
 ![Premier848's GitHub Contributions](https://github.com/Premier848.png?tab=overview&theme=dark)
+
+</details>
 
 ---
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Premier848&theme=radical&no-frame=true&row=1&column=5)
-
----
-
-## 🎖️ Hacktoberfest & Open Source
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Active-orange?style=for-the-badge)  
-![GitHub Stars](https://img.shields.io/github/stars/Premier848?style=for-the-badge&color=yellow)  
-![GitHub Followers](https://img.shields.io/github/followers/Premier848?style=for-the-badge&color=blue)  
-![Open Source Contributions](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)  
 
 ---
 
@@ -71,9 +78,14 @@ Let's connect! 🌐
 ---
 
 ## 💡 Fun Facts
+<details>
+<summary>Click to see fun facts 🎮🎵</summary>
+
 🎮 Gaming enthusiast  
 🎵 Music lover  
 🌱 Always learning Python tricks and coding best practices  
+
+</details>
 
 ---
 
