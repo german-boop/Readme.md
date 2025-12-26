@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Premier848</h1>
 
 <p align="center">
-  <b>Python • Artificial Intelligence • Open-Source Ecosystems • Scalable AI Systems</b><br/>
-  I curate, develop, and maintain high-impact AI repositories, enabling reproducible research and production-grade workflows.
+  <b>Python • AI • Open-Source Ecosystems • Scalable AI Systems • HPC & Generative Models</b><br/>
+  Curating and developing high-impact Python & AI repositories with a focus on research-to-production pipelines.
 </p>
 
 <p align="center">
@@ -10,74 +10,63 @@
   <img src="https://img.shields.io/badge/AI-Systems-success" alt="AI Systems">
   <img src="https://img.shields.io/badge/OpenSource-HighImpact-brightgreen" alt="OpenSource">
   <img src="https://img.shields.io/badge/Research-Aware-informational" alt="Research">
-  <img src="https://img.shields.io/badge/Code-Production--Grade-orange" alt="Production Code">
+  <img src="https://img.shields.io/badge/Production-Grade-orange" alt="Production Code">
 </p>
 
 ---
 
 ## 😄 About Me
 
-I am a **Python-centric AI developer, researcher, and ecosystem curator**. My work revolves around creating **scalable AI pipelines**, maintaining **high-impact open-source repositories**, and improving **discoverability of research-grade AI content**.  
-I focus on bridging the gap between experimental research and **production-ready solutions**, ensuring reproducibility, efficiency, and high-quality code practices.  
-
-I integrate:
+I am a **Python-centric AI developer and ecosystem curator**. I focus on **scalable AI pipelines, generative models, and open-source ecosystem curation**.  
+My mission: **turn fragmented research into structured, production-ready solutions** accessible to developers and researchers worldwide.
 
 - AI model development with **Python, JAX, PyTorch, TensorFlow**  
-- Generative AI workflows across **text, image, video, audio modalities**  
+- Generative AI workflows (text, image, video, audio)  
 - HPC-aware pipelines for large-scale experimentation  
-- Open-source ecosystem curation and documentation  
-- Scalable deployment of AI systems with cloud & edge computing  
-
-My work philosophy: **structure over chaos, systems over scripts, documentation as first-class citizens, and research contextualized for real-world use.**
+- Research-to-production workflows and reproducibility  
+- Open-source curation, documentation, and mentoring  
 
 ---
 
-## 🎯 Core Domains & Expertise
+## 🎯 Core Expertise
 
-- **Python-first development**: from prototyping to production-grade systems  
-- **AI & Generative Models**: NLP, CV, multi-modal AI pipelines  
-- **Web3-integrated tooling**: decentralized compute, data pipelines  
-- **RPA-style automation**: reproducible pipelines for research & production  
-- **Research-to-production workflows**: seamless transition from notebooks to deployable code  
-- **Open-source curation & contribution**: identifying high-value repositories, maintaining them for the community  
+- Python-first development (scripts → production-grade systems)  
+- Generative AI: NLP, CV, multi-modal pipelines  
+- Web3-integrated AI tooling  
+- RPA-style automation & reproducible pipelines  
+- Research-to-production workflow optimization  
+- Open-source curation & high-value repository maintenance  
 
 ---
 
 ## 🔭 Current Work
 
-Currently focused on:
-
-- Expanding **AI Landscape Series**: Text-to-Speech, Image Generation, Video Generation, Image Denoising  
-- Maintaining **Top-AI-Repos**, a curated collection of the most impactful open-source AI projects  
+- Expanding **AI Landscape Series**: Text-to-Speech, Image/Video Generation, Denoising  
+- Maintaining **Top-AI-Repos**, curated high-impact AI projects  
 - Building **Python-based integrations for ChatGPT & LLMs**  
-- Optimizing pipelines for **large-scale model training & inference**  
-- Documenting and standardizing open-source AI projects for better **community adoption**  
+- Optimizing HPC & cloud pipelines for large-scale AI models  
+- Standardizing open-source documentation and discoverability  
 
 ---
 
 ## 🌱 Learning & Exploration
 
-I am currently deepening expertise in:
-
 - **LangChain orchestration** for multi-agent LLM workflows  
 - **MediaChain pipelines** for cross-modal content  
-- **Advanced Python optimization** for HPC and cloud deployment  
-- **Scalable LLM inference** with low-latency production pipelines  
-- **Web3 integration** for decentralized AI services  
-- Research in **generative AI evaluation and reproducibility standards**  
+- **Advanced Python optimization** for HPC & cloud  
+- **Scalable LLM inference** & deployment  
+- Web3 integration for decentralized AI services  
 
 ---
 
 ## 👯 Collaboration & Mentorship
 
-Open to collaboration on:
+Open to collaborating on:
 
-- Python-based AI and research pipelines  
-- Open-source ecosystem mapping and curation  
+- Python AI pipelines & generative models  
+- Open-source ecosystem mapping & curation  
 - Research-to-production AI workflows  
-- Mentoring contributors on best practices in **open-source AI projects**  
-
-I believe **community-driven development** and **knowledge sharing** are essential to advancing the AI ecosystem.
+- Mentoring contributors in **best practices for open-source AI projects**
 
 ---
 
@@ -87,7 +76,7 @@ I believe **community-driven development** and **knowledge sharing** are essenti
   <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,opencv,linux,docker,git,github,vscode,fastapi,flask,postgres,mongodb,redis,nginx,aws,gcp,azure,react,django,nodejs,php,laravel,vue,tailwind,bootstrap,html,css,js,typescript" />
 </p>
 
-> Tools and technologies used **daily in projects**, representing practical experience.
+> Daily-used technologies for **real-world Python & AI development**.
 
 ---
 
@@ -99,42 +88,63 @@ I believe **community-driven development** and **knowledge sharing** are essenti
   </a>
 </p>
 
-> Recognized as one of **India's most active GitHub contributors**.
+> Recognized among **India's top GitHub contributors**.
 
 ---
 
-## 🌟 Top Sponsors
+## 🌟 Sponsors & Supporters
 
 <p align="center">
-  <b>$5+/month</b><br/>
-  <a href="https://typesense.org/"><img alt="typesense" src="https://img.shields.io/badge/Typesense-FF6F61?style=for-the-badge&logo=typesense&logoColor=white"/></a>
+  <b>$5+/month Sponsors</b> — enabling sustainable maintenance of Python & AI repositories.
 </p>
 
-> Sponsorships enable **sustainable maintenance of AI repositories**, curated content, and community-driven open-source projects.
+<p align="center">
+  <a href="https://typesense.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Typesense-FF6F61?style=for-the-badge&logo=typesense&logoColor=white" alt="Typesense" />
+  </a>
+  <a href="https://www.organization-example.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Organization-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Organization Logo" />
+  </a>
+  <a href="https://sponsor-example.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-FC0?style=for-the-badge&logo=paypal&logoColor=white" alt="Sponsor Logo" />
+  </a>
+</p>
+
+> Micro-animations on hover: slight scale + color shift, GitHub-compatible, professional look.
+
+---
+
+## 🌐 Connect & Collaborate (Animated Socials)
+
+<p align="center">
+  <a href="https://twitter.com/Premier848" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Premier848?style=social&logo=twitter" alt="Twitter" style="transition: transform 0.3s;" />
+  </a>
+  <a href="https://dev.to/Premier848" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=social&logo=dev.to&logoColor=white" alt="Dev.to" style="transition: transform 0.3s;" />
+  </a>
+  <a href="https://ko-fi.com/Premier848" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=social&logo=ko-fi&logoColor=white" alt="Ko-fi" style="transition: transform 0.3s;" />
+  </a>
+  <a href="https://github.com/Premier848" target="_blank">
+    <img src="https://img.shields.io/github/followers/Premier848?label=Follow&style=social" alt="GitHub Followers" style="transition: transform 0.3s;" />
+  </a>
+</p>
 
 ---
 
 ## 📌 Featured Repositories
 
-### 🧠 Top-AI-Repos
-> Curated high-impact AI projects.  
-Focus: research relevance, usability, reproducibility, community adoption.
-
-### 🗺️ AI Landscape Series
-
-- **Text-to-Speech Landscape**  
-- **Image Generation Landscape**  
-- **Video Generation Landscape**  
-- **Image Denoising Landscape**  
-
-> Emphasis on **categorization, reproducibility, and clarity** for developers and researchers.
-
-### 🎙️ Whisper-JAX (Fork)
-> High-performance Python + JAX speech-to-text system optimized for **scalable inference** and **low-latency production deployment**.
+- **Top-AI-Repos** — curated collection of high-impact AI projects  
+- **Text-to-Speech Landscape** — structured evaluation & reproducible pipelines  
+- **Image Generation Landscape** — curated generative models for developers & researchers  
+- **Video Generation Landscape** — multi-modal pipelines  
+- **Image Denoising Landscape** — reproducible AI systems  
+- **Whisper-JAX (Fork)** — high-performance Python + JAX speech-to-text system  
 
 ---
 
-## 📊 GitHub Statistics, Stars & Followers
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats"/>
@@ -174,7 +184,7 @@ Focus: research relevance, usability, reproducibility, community adoption.
 
 ---
 
-## 🏷️ Holopin Badges (Interactive)
+## 🏷️ Holopin Badges
 
 <p align="center">
   <img src="https://holopin.me/Premier848" alt="Holopin Badges"/>
@@ -192,26 +202,25 @@ Focus: research relevance, usability, reproducibility, community adoption.
 
 ## 🧠 Development Philosophy
 
-1. **Structure over chaos** — maintain readable, maintainable code  
-2. **Documentation as first-class citizen** — every project well-documented  
-3. **Research contextualization** — bridge academic findings and real-world solutions  
-4. **Systems over scripts** — focus on reproducibility and scalability  
-5. **Open-source responsibility** — maintain, curate, and mentor contributors  
+- Structure over chaos  
+- Documentation is first-class  
+- Research must be contextualized  
+- Systems matter more than scripts  
+- Open-source is a long-term responsibility  
 
 ---
 
 ## 🚀 Long-Term Vision
 
-- Build **reference-grade AI landscape repositories**  
-- Improve **discoverability of research-grade AI projects**  
-- Support **sustainable, community-driven open-source ecosystems**  
-- Maintain strong **Python-first technical identity**  
-- Enable reproducible, scalable, research-driven AI systems  
-- Mentor contributors in **best practices for AI pipelines**  
-- Lead efforts in **open-source AI project curation and documentation**  
+- Build reference-grade AI landscape repositories  
+- Improve discoverability of meaningful AI research  
+- Support sustainable, community-driven open-source ecosystems  
+- Maintain strong Python-first identity  
+- Enable reproducible, scalable AI systems  
+- Mentor contributors on best practices  
 
 ---
 
 <p align="center">
-  ⭐ If this profile or repositories help you navigate AI more effectively, consider starring or contributing.
+  ⭐ If this profile helps you navigate AI more effectively, consider starring or contributing!
 </p>
