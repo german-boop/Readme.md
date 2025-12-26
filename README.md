@@ -1,86 +1,207 @@
-# 👋 Hi, I'm Premier848
+<h1 align="center">Hi 👋, I'm Premier848</h1>
 
-![Header GIF](https://github.com/Premier848/Resume/raw/main/assets/header.gif)
+<p align="center">
+  <b>Python • Artificial Intelligence • Open-Source Ecosystems • Scalable AI Systems</b><br/>
+  Building, curating, and maintaining high-impact AI repositories with a strong Python core
+</p>
 
-🌟 Aspiring Python Developer | Beginner | Open Source Enthusiast
-
----
-
-## 🚀 About Me
-👨‍💻 Beginner Python developer  
-💡 Passionate about learning Python, building CLI tools, small apps, and automations  
-🎯 Goal: Become a skilled Python programmer and contribute to open-source projects  
-🌱 Always learning new technologies and best practices  
-
-*"Every line of code is a step closer to mastery." 🚀*
-
----
-
-## 🛠️ Skills & Progress
-
-| Skill | Level |
-|-------|-------|
-| Python | ![Python](https://img.shields.io/badge/Python-70%25-green?style=for-the-badge) |
-| Git | ![Git](https://img.shields.io/badge/Git-80%25-black?style=for-the-badge) |
-| HTML | ![HTML](https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge) |
-| CSS | ![CSS](https://img.shields.io/badge/CSS-55%25-blue?style=for-the-badge) |
-| SQL | ![SQL](https://img.shields.io/badge/SQL-50%25-blue?style=for-the-badge) |
-| VSCode | ![VSCode](https://img.shields.io/badge/VSCode-75%25-blue?style=for-the-badge) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20Language-blue?logo=python">
+  <img src="https://img.shields.io/badge/AI-Systems%20%26%20Tooling-success">
+  <img src="https://img.shields.io/badge/Open%20Source-High%20Impact-brightgreen">
+  <img src="https://img.shields.io/badge/Research-Aware-informational">
+  <img src="https://img.shields.io/badge/Code-Production--Grade-orange">
+</p>
 
 ---
 
-## 📂 Projects
+## 🧭 Professional Overview
 
-| Project | Description | Demo / Repo |
-|---------|-------------|-------------|
-| 🌟 **Simple Phonebook** | CLI Python project with emojis | [![Demo](https://github.com/Premier848/Resume/raw/main/assets/project1.gif)](https://github.com/german-boop/simple-phonebook-python) |
-| 📝 **Fibonacci Memoization** | Python implementation of Fibonacci with memoization | [![Demo](https://github.com/Premier848/Resume/raw/main/assets/project2.gif)](https://github.com/german-boop/-fibonacci-memoization) |
+I am a **Python-centric AI developer and open-source ecosystem curator**.  
+My work focuses on **organizing complexity in modern AI**, transforming fragmented research and tooling into **structured, discoverable, and reusable repositories**.
 
-*More projects coming soon!* 🚀
+Rather than isolated experimentation, I emphasize:
 
-> 💡 Tip: GIFs show preview on hover and link directly to the GitHub repository.
+- Ecosystem-level thinking  
+- Research-aware but production-conscious design  
+- Long-term maintainability of open-source assets  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Core Interests & Domains
 
-[![Premier848's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=radical)](https://github.com/Premier848)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premier848&layout=compact&theme=radical)](https://github.com/Premier848?tab=repositories)
+- 🧠 Artificial Intelligence & Generative Models  
+- ⚙️ HPC-aware AI workflows & performance-sensitive systems  
+- 🌐 Web3-adjacent AI tooling & automation  
+- 🤖 RPA-style automation using Python & AI  
+- 📊 Large-scale open-source curation  
+
+---
+
+## 🔭 Current Work
+
+- Developing and maintaining **AI Landscape repositories** (text, image, audio, video)
+- Curating **Top-AI-Repos** — a high-signal index of impactful AI projects
+- Building Python-based tooling for research discovery
+- Exploring scalable and reproducible AI pipelines
+
+---
+
+## 🌱 Currently Learning
+
+- LLM orchestration frameworks (LangChain-style tooling)
+- AI system scalability & performance trade-offs
+- Research-to-production workflows
+- Advanced Python optimization patterns
+
+---
+
+## 👯 Collaboration
+
+Open to collaboration on:
+
+- Python & AI open-source projects  
+- Research-driven tooling  
+- AI ecosystem mapping & curation  
+- Developer productivity platforms  
+
+---
+
+## 🛠️ Favorite Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,opencv,linux,docker,git,github,vscode,fastapi,flask,postgres,mongodb,redis,nginx,aws,gcp,azure" />
+</p>
+
+> Tooling listed reflects **active and practical usage**, not superficial exposure.
+
+---
+
+## 🧠 Flagship Repositories
+
+### ⭐ Top-AI-Repos
+A curated collection of the **most impactful open-source AI projects**.
+
+**Focus:**
+- Research relevance
+- Practical usability
+- Community adoption
+- Long-term value
+
+Acts as a **navigation layer** for the modern AI ecosystem.
+
+---
+
+### 🗺️ AI Landscape Series
+
+A modular ecosystem of repositories mapping AI by modality:
+
+- **Text-to-Speech Landscape**
+- **Image Generation Landscape**
+- **Video Generation Landscape**
+- **Image Denoising Landscape**
+
+Each repository emphasizes:
+- Clear categorization
+- Signal over noise
+- Research + tooling balance
+
+---
+
+### 🎙️ Whisper-JAX (Fork)
+High-performance speech-to-text system using **Python + JAX**,  
+focused on efficient inference and scalable experimentation.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&include_all_commits=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848" />
+</p>
+
+---
+
+## ⏱️ WakaTime Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Premier848&layout=compact" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Premier848&theme=radical&no-frame=true&row=1&column=5)](https://github.com/Premier848)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Premier848&theme=flat&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-Let's connect! 🌐  
-[Telegram](https://t.me/premier848) | [TikTok](https://www.tiktok.com/@premier848_) | [WhatsApp](https://wa.me/YourNumberHere)
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premier848&theme=github-compact" />
+</p>
 
 ---
 
-## 💼 My Resume
-📄 Check out my resume:  
-[**Open Resume (PDF)**](https://github.com/Premier848/Resume/raw/main/Premier848_Resume.pdf)  
+## 👀 Visitor Count
 
-> The link is fully open and anyone can view it without signing in.
-
----
-
-## 💡 Fun Facts
-🎮 Gaming enthusiast  
-🎵 Music lover  
-🌱 Always learning Python tricks and coding best practices  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Premier848&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🔗 Quick Links
-- [All Repositories](https://github.com/Premier848?tab=repositories)  
-- [Projects Portfolio](https://github.com/Premier848)  
-- [Resume PDF](https://github.com/Premier848/Resume/raw/main/Premier848_Resume.pdf)  
+## 🌠 Sponsorship
+
+### Top Sponsors
+- **typesense** ($5+/month)
+
+> Sponsorships support long-term open-source maintenance and ecosystem work.
 
 ---
 
-### License
-[MIT License](https://github.com/german-boop/Readme.md#)
+## 🧩 Badges & Recognition
+
+- GitHub Star 2023
+- High-activity open-source contributor
+- Maintainer of multi-repository AI ecosystems
+
+---
+
+## 🌐 Connect
+
+- 🐦 Twitter  
+- ✍️ Dev.to  
+- ☕ Ko-fi  
+
+---
+
+## 🧠 Development Philosophy
+
+- Structure over chaos  
+- Documentation as a first-class artifact  
+- Research must be contextualized  
+- Systems matter more than scripts  
+- Open-source is a long-term responsibility  
+
+---
+
+## 🚀 Long-Term Vision
+
+- Build reference-grade AI landscape repositories
+- Improve discoverability of meaningful AI research
+- Support sustainable open-source ecosystems
+- Maintain a strong Python-first technical identity
+
+---
+
+<p align="center">
+  ⭐ If this profile or its repositories help you navigate AI more effectively, consider starring or contributing.
+</p>
