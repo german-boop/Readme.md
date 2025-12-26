@@ -18,15 +18,16 @@ I contribute to open-source, document projects, and experiment with new Python i
 - Python development and scripting 🐍  
 - Creative repositories like **linux-letters**  
 - Learning AI & basic Python project structures  
-- Open-source contribution workflow  
+- Open-source collaboration workflow  
 - Markdown & documentation excellence  
+- Actively contributing to **personal & forked repos**  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,linux,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,github,vscode,html,css,flask,django" />
 </p>
 
 ---
@@ -44,15 +45,15 @@ I contribute to open-source, document projects, and experiment with new Python i
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <b>Total Stars:</b> 12 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Followers:</b> 5 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Profile Views:</b> [insert actual views]
+  <b>Total Stars:</b> 12 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Followers:</b> 5 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=Premier848&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -60,7 +61,7 @@ I contribute to open-source, document projects, and experiment with new Python i
 ## ⏱️ WakaTime Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Premier848&layout=compact&theme=dark" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Premier848&layout=compact&theme=radical" alt="WakaTime Stats"/>
 </p>
 
 ---
@@ -85,14 +86,6 @@ I contribute to open-source, document projects, and experiment with new Python i
 
 <p align="center">
   <img src="https://holopin.me/Premier848" alt="Holopin Badges"/>
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Premier848&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -122,13 +115,23 @@ I contribute to open-source, document projects, and experiment with new Python i
 
 <p align="center">
   <a href="https://twitter.com/Premier848" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Premier848?style=social&logo=twitter" alt="Twitter" style="transition: transform 0.3s;" />
+    <img src="https://img.shields.io/twitter/follow/Premier848?style=social&logo=twitter" alt="Twitter" style="transition: transform 0.3s;"/>
   </a>
   <a href="https://dev.to/Premier848" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=social&logo=dev.to&logoColor=white" alt="Dev.to" style="transition: transform 0.3s;" />
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=social&logo=dev.to&logoColor=white" alt="Dev.to" style="transition: transform 0.3s;"/>
   </a>
   <a href="https://ko-fi.com/Premier848" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=social&logo=ko-fi&logoColor=white" alt="Ko-fi" style="transition: transform 0.3s;" />
+    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=social&logo=ko-fi&logoColor=white" alt="Ko-fi" style="transition: transform 0.3s;"/>
+  </a>
+</p>
+
+---
+
+## 🌠 Top Sponsors
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/typesense-$5%2B--blue" alt="Top Sponsor Typesense"/>
   </a>
 </p>
 
@@ -140,7 +143,8 @@ I contribute to open-source, document projects, and experiment with new Python i
 - Documenting creative repos for Linux & Python projects  
 - Open-source collaboration workflow  
 - Markdown & project structuring  
+- Actively improving **Python scripting, automation, and creative projects**  
 
 ---
 
-> 378 contributions in the last year. Achievements unlocked with private contributions are visible by enabling them in Profile settings.
+> 378 contributions in the last year. Achievements unlocked with private contributions can be displayed by enabling them in Profile settings.
