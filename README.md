@@ -1,82 +1,33 @@
 <h1 align="center">Hi 👋, I'm Premier848</h1>
 
 <p align="center">
-  <b>Python • AI • Open-Source Ecosystems • Scalable AI Systems • HPC & Generative Models</b><br/>
-  Curating and developing high-impact Python & AI repositories with a focus on research-to-production pipelines.
+  <b>Aspiring Python Developer | Beginner Level 🐍 | Open-Source Enthusiast</b><br/>
+  5 Followers · 120 Following
 </p>
+
+📧 germantranslator848@gmail.com  
+🏢 Organization: @Premier848  
+
+---
+
+## 🌟 About Me
+
+I am an aspiring **Python developer**, exploring **creative Python projects, AI basics, and Linux workflows**.  
+I contribute to open-source, document projects, and experiment with new Python ideas.
+
+- Python development and scripting 🐍  
+- Creative repositories like **linux-letters**  
+- Learning AI & basic Python project structures  
+- Open-source contribution workflow  
+- Markdown & documentation excellence  
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Primary%20Language-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/AI-Systems-success" alt="AI Systems">
-  <img src="https://img.shields.io/badge/OpenSource-HighImpact-brightgreen" alt="OpenSource">
-  <img src="https://img.shields.io/badge/Research-Aware-informational" alt="Research">
-  <img src="https://img.shields.io/badge/Production-Grade-orange" alt="Production Code">
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,github,vscode,html,css" />
 </p>
-
----
-
-## 😄 About Me
-
-I am a **Python-centric AI developer and ecosystem curator**. I focus on **scalable AI pipelines, generative models, and open-source ecosystem curation**.  
-My mission: **turn fragmented research into structured, production-ready solutions** accessible to developers and researchers worldwide.
-
-- AI model development with **Python, JAX, PyTorch, TensorFlow**  
-- Generative AI workflows (text, image, video, audio)  
-- HPC-aware pipelines for large-scale experimentation  
-- Research-to-production workflows and reproducibility  
-- Open-source curation, documentation, and mentoring  
-
----
-
-## 🎯 Core Expertise
-
-- Python-first development (scripts → production-grade systems)  
-- Generative AI: NLP, CV, multi-modal pipelines  
-- Web3-integrated AI tooling  
-- RPA-style automation & reproducible pipelines  
-- Research-to-production workflow optimization  
-- Open-source curation & high-value repository maintenance  
-
----
-
-## 🔭 Current Work
-
-- Expanding **AI Landscape Series**: Text-to-Speech, Image/Video Generation, Denoising  
-- Maintaining **Top-AI-Repos**, curated high-impact AI projects  
-- Building **Python-based integrations for ChatGPT & LLMs**  
-- Optimizing HPC & cloud pipelines for large-scale AI models  
-- Standardizing open-source documentation and discoverability  
-
----
-
-## 🌱 Learning & Exploration
-
-- **LangChain orchestration** for multi-agent LLM workflows  
-- **MediaChain pipelines** for cross-modal content  
-- **Advanced Python optimization** for HPC & cloud  
-- **Scalable LLM inference** & deployment  
-- Web3 integration for decentralized AI services  
-
----
-
-## 👯 Collaboration & Mentorship
-
-Open to collaborating on:
-
-- Python AI pipelines & generative models  
-- Open-source ecosystem mapping & curation  
-- Research-to-production AI workflows  
-- Mentoring contributors in **best practices for open-source AI projects**
-
----
-
-## 🛠️ Favorite Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,opencv,linux,docker,git,github,vscode,fastapi,flask,postgres,mongodb,redis,nginx,aws,gcp,azure,react,django,nodejs,php,laravel,vue,tailwind,bootstrap,html,css,js,typescript" />
-</p>
-
-> Daily-used technologies for **real-world Python & AI development**.
 
 ---
 
@@ -88,66 +39,12 @@ Open to collaborating on:
   </a>
 </p>
 
-> Recognized among **India's top GitHub contributors**.
-
----
-
-## 🌟 Sponsors & Supporters
-
-<p align="center">
-  <b>$5+/month Sponsors</b> — enabling sustainable maintenance of Python & AI repositories.
-</p>
-
-<p align="center">
-  <a href="https://typesense.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Typesense-FF6F61?style=for-the-badge&logo=typesense&logoColor=white" alt="Typesense" />
-  </a>
-  <a href="https://www.organization-example.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Organization-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Organization Logo" />
-  </a>
-  <a href="https://sponsor-example.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-FC0?style=for-the-badge&logo=paypal&logoColor=white" alt="Sponsor Logo" />
-  </a>
-</p>
-
-> Micro-animations on hover: slight scale + color shift, GitHub-compatible, professional look.
-
----
-
-## 🌐 Connect & Collaborate (Animated Socials)
-
-<p align="center">
-  <a href="https://twitter.com/Premier848" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Premier848?style=social&logo=twitter" alt="Twitter" style="transition: transform 0.3s;" />
-  </a>
-  <a href="https://dev.to/Premier848" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=social&logo=dev.to&logoColor=white" alt="Dev.to" style="transition: transform 0.3s;" />
-  </a>
-  <a href="https://ko-fi.com/Premier848" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=social&logo=ko-fi&logoColor=white" alt="Ko-fi" style="transition: transform 0.3s;" />
-  </a>
-  <a href="https://github.com/Premier848" target="_blank">
-    <img src="https://img.shields.io/github/followers/Premier848?label=Follow&style=social" alt="GitHub Followers" style="transition: transform 0.3s;" />
-  </a>
-</p>
-
----
-
-## 📌 Featured Repositories
-
-- **Top-AI-Repos** — curated collection of high-impact AI projects  
-- **Text-to-Speech Landscape** — structured evaluation & reproducible pipelines  
-- **Image Generation Landscape** — curated generative models for developers & researchers  
-- **Video Generation Landscape** — multi-modal pipelines  
-- **Image Denoising Landscape** — reproducible AI systems  
-- **Whisper-JAX (Fork)** — high-performance Python + JAX speech-to-text system  
-
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -155,7 +52,7 @@ Open to collaborating on:
 </p>
 
 <p align="center">
-  <b>Total Stars:</b> [insert] &nbsp;&nbsp;|&nbsp;&nbsp; <b>Followers:</b> [insert] &nbsp;&nbsp;|&nbsp;&nbsp; <b>Profile Views:</b> [insert]
+  <b>Total Stars:</b> 12 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Followers:</b> 5 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Profile Views:</b> [insert actual views]
 </p>
 
 ---
@@ -200,27 +97,50 @@ Open to collaborating on:
 
 ---
 
-## 🧠 Development Philosophy
+## 🔹 Featured Repositories
 
-- Structure over chaos  
-- Documentation is first-class  
-- Research must be contextualized  
-- Systems matter more than scripts  
-- Open-source is a long-term responsibility  
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [uxp-xd](https://github.com/Premier848/uxp-xd) | Documentation for XD UXP Plugin API | JavaScript | - |
+| [titap_mystry](https://github.com/Premier848/titap_mystry) | Learn basics of Linux command line | Roff | - |
+| [tytap_mystry](https://github.com/Premier848/tytap_mystry) | Personal repo | - | - |
+| [linux-letters](https://github.com/Premier848/linux-letters) | A creative repository with mysterious Linux letters | Python | - |
+| [project_2](https://github.com/Premier848/project_2) | Personal repo | - | - |
+| [my-new-project](https://github.com/Premier848/my-new-project) | Personal repo | - | - |
+
+---
+
+## 👥 Contributors
+
+| Contributor | Contributions | Profile |
+|-------------|---------------|---------|
+| @Premier848 | 378 commits | [GitHub](https://github.com/Premier848) |
 
 ---
 
-## 🚀 Long-Term Vision
-
-- Build reference-grade AI landscape repositories  
-- Improve discoverability of meaningful AI research  
-- Support sustainable, community-driven open-source ecosystems  
-- Maintain strong Python-first identity  
-- Enable reproducible, scalable AI systems  
-- Mentor contributors on best practices  
-
----
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  ⭐ If this profile helps you navigate AI more effectively, consider starring or contributing!
+  <a href="https://twitter.com/Premier848" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Premier848?style=social&logo=twitter" alt="Twitter" style="transition: transform 0.3s;" />
+  </a>
+  <a href="https://dev.to/Premier848" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=social&logo=dev.to&logoColor=white" alt="Dev.to" style="transition: transform 0.3s;" />
+  </a>
+  <a href="https://ko-fi.com/Premier848" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=social&logo=ko-fi&logoColor=white" alt="Ko-fi" style="transition: transform 0.3s;" />
+  </a>
 </p>
+
+---
+
+## 🔭 Current Learning & Work
+
+- Exploring **AI basics** with Python  
+- Documenting creative repos for Linux & Python projects  
+- Open-source collaboration workflow  
+- Markdown & project structuring  
+
+---
+
+> 378 contributions in the last year. Achievements unlocked with private contributions are visible by enabling them in Profile settings.
