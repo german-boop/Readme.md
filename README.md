@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Python • Artificial Intelligence • Open-Source Ecosystems • Scalable AI Systems</b><br/>
-  Building, curating, and maintaining high-impact AI repositories with a strong Python core
+  Curating, building, and maintaining high-impact AI repositories and developer-centric tools
 </p>
 
 <p align="center">
@@ -17,51 +17,52 @@
 
 ## 🧭 Professional Overview
 
-I am a **Python-centric AI developer and open-source ecosystem curator**.  
-My work focuses on **organizing complexity in modern AI**, transforming fragmented research and tooling into **structured, discoverable, and reusable repositories**.
+I am a **Python-centric AI developer and open-source ecosystem curator**, focused on:
 
-Rather than isolated experimentation, I emphasize:
+- Organizing complexity in AI research and tooling  
+- Transforming fragmented knowledge into structured, discoverable, reusable repositories  
+- Building developer-centric utilities for reproducible AI pipelines  
 
-- Ecosystem-level thinking  
-- Research-aware but production-conscious design  
-- Long-term maintainability of open-source assets  
+I prioritize **clarity, maintainability, research-aware design, and long-term open-source sustainability**.
 
 ---
 
-## 🎯 Core Interests & Domains
+## 🎯 Core Domains
 
-- 🧠 Artificial Intelligence & Generative Models  
-- ⚙️ HPC-aware AI workflows & performance-sensitive systems  
-- 🌐 Web3-adjacent AI tooling & automation  
-- 🤖 RPA-style automation using Python & AI  
-- 📊 Large-scale open-source curation  
+- 🐍 Python-first development  
+- 🤖 AI & Generative Models  
+- 🌐 Web3-adjacent AI tooling  
+- ⚙️ HPC-aware pipelines  
+- 📊 RPA-style automation with Python  
+- 🧩 Open-source curation and ecosystem mapping  
 
 ---
 
 ## 🔭 Current Work
 
-- Developing and maintaining **AI Landscape repositories** (text, image, audio, video)
-- Curating **Top-AI-Repos** — a high-signal index of impactful AI projects
-- Building Python-based tooling for research discovery
-- Exploring scalable and reproducible AI pipelines
+- Expanding **AI Landscape Series** (text, image, audio, video)  
+- Maintaining **Top-AI-Repos** — high-impact curated open-source projects  
+- Python-based developer tooling for research discovery  
+- Efficient and scalable AI pipelines  
+- Improving **repository structure & documentation** for maximum discoverability  
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning & Exploration
 
-- LLM orchestration frameworks (LangChain-style tooling)
-- AI system scalability & performance trade-offs
-- Research-to-production workflows
-- Advanced Python optimization patterns
+- LLM orchestration & advanced frameworks  
+- AI system scalability and performance optimization  
+- Research-to-production workflows  
+- Advanced Python optimization for compute-intensive tasks  
 
 ---
 
 ## 👯 Collaboration
 
-Open to collaboration on:
+Open to collaborating on:
 
 - Python & AI open-source projects  
-- Research-driven tooling  
+- Research-focused tooling  
 - AI ecosystem mapping & curation  
 - Developer productivity platforms  
 
@@ -70,58 +71,67 @@ Open to collaboration on:
 ## 🛠️ Favorite Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,opencv,linux,docker,git,github,vscode,fastapi,flask,postgres,mongodb,redis,nginx,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,opencv,linux,docker,git,github,vscode,fastapi,flask,postgres,mongodb,redis,nginx,aws,gcp,azure,react,django,nodejs,php,laravel,vue,tailwind,bootstrap,html,css,js,typescript" />
 </p>
 
-> Tooling listed reflects **active and practical usage**, not superficial exposure.
+> Reflects practical usage, not superficial exposure.
 
 ---
 
-## 🧠 Flagship Repositories
+## 🌟 Top Sponsors
 
-### ⭐ Top-AI-Repos
-A curated collection of the **most impactful open-source AI projects**.
+- **typesense** ($5+/month)  
+> Supporting long-term open-source maintenance and ecosystem development.  
 
-**Focus:**
-- Research relevance
-- Practical usability
-- Community adoption
-- Long-term value
+---
 
-Acts as a **navigation layer** for the modern AI ecosystem.
+## 🧩 Badges & Recognition
+
+- GitHub Star 2023  
+- High-activity contributor to AI landscape repositories  
+- Maintainer of multi-repository curated ecosystems  
+
+---
+
+## 📌 Featured Repositories
+
+### 🧠 Top-AI-Repos
+> Curated list of the **most influential open-source AI projects**, continuously updated.
+
+**Focus:** Research relevance, usability, community adoption, long-term value.
 
 ---
 
 ### 🗺️ AI Landscape Series
 
-A modular ecosystem of repositories mapping AI by modality:
+**Text-to-Speech Landscape**  
+**Image Generation Landscape**  
+**Video Generation Landscape**  
+**Image Denoising Landscape**  
 
-- **Text-to-Speech Landscape**
-- **Image Generation Landscape**
-- **Video Generation Landscape**
-- **Image Denoising Landscape**
-
-Each repository emphasizes:
-- Clear categorization
-- Signal over noise
-- Research + tooling balance
+Emphasis on **categorization, clarity, and reproducibility**.
 
 ---
 
 ### 🎙️ Whisper-JAX (Fork)
-High-performance speech-to-text system using **Python + JAX**,  
-focused on efficient inference and scalable experimentation.
+High-performance Python + JAX speech-to-text system optimized for scalable inference.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Premier848 GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848"
+    alt="Premier848 GitHub Streak"
+  />
 </p>
 
 ---
@@ -129,7 +139,10 @@ focused on efficient inference and scalable experimentation.
 ## ⏱️ WakaTime Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Premier848&layout=compact" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Premier848&layout=compact"
+    alt="Premier848 WakaTime Stats"
+  />
 </p>
 
 ---
@@ -137,7 +150,10 @@ focused on efficient inference and scalable experimentation.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Premier848&theme=flat&no-frame=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Premier848&theme=flat&no-frame=true&margin-w=12"
+    alt="Premier848 GitHub Trophies"
+  />
 </p>
 
 ---
@@ -145,7 +161,10 @@ focused on efficient inference and scalable experimentation.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premier848&theme=github-compact" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Premier848&theme=github-compact"
+    alt="Premier848 Contribution Graph"
+  />
 </p>
 
 ---
@@ -153,40 +172,26 @@ focused on efficient inference and scalable experimentation.
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Premier848&label=Profile%20Views&color=blue&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Premier848&label=Profile%20Views&color=blue&style=flat"
+    alt="Premier848 Profile Views"
+  />
 </p>
 
 ---
 
-## 🌠 Sponsorship
+## 🌐 Socials & Links
 
-### Top Sponsors
-- **typesense** ($5+/month)
-
-> Sponsorships support long-term open-source maintenance and ecosystem work.
-
----
-
-## 🧩 Badges & Recognition
-
-- GitHub Star 2023
-- High-activity open-source contributor
-- Maintainer of multi-repository AI ecosystems
-
----
-
-## 🌐 Connect
-
-- 🐦 Twitter  
-- ✍️ Dev.to  
-- ☕ Ko-fi  
+- 🐦 [Twitter](https://twitter.com/)  
+- ✍️ [Dev.to](https://dev.to/)  
+- ☕ [Ko-fi](https://ko-fi.com/)  
 
 ---
 
 ## 🧠 Development Philosophy
 
 - Structure over chaos  
-- Documentation as a first-class artifact  
+- Documentation is a first-class artifact  
 - Research must be contextualized  
 - Systems matter more than scripts  
 - Open-source is a long-term responsibility  
@@ -195,13 +200,14 @@ focused on efficient inference and scalable experimentation.
 
 ## 🚀 Long-Term Vision
 
-- Build reference-grade AI landscape repositories
-- Improve discoverability of meaningful AI research
-- Support sustainable open-source ecosystems
-- Maintain a strong Python-first technical identity
+- Build **reference-grade AI landscape repositories**  
+- Improve discoverability of meaningful AI research  
+- Support sustainable open-source ecosystems  
+- Maintain a strong **Python-first technical identity**  
+- Enable reproducible, scalable, research-driven AI systems  
 
 ---
 
 <p align="center">
-  ⭐ If this profile or its repositories help you navigate AI more effectively, consider starring or contributing.
+  ⭐ If this profile or its repositories help you discover, learn, or build better AI systems — consider starring or contributing.
 </p>
