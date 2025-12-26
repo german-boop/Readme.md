@@ -1,125 +1,147 @@
-<h1 align="center">Hi there 👋, I'm a Python Developer</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Premier848 - Resume</title>
 
-<p align="center">
-  <b>Python • Algorithms • Mathematics • Clean Code</b>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+<style>
+body {
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    background: #0f111a;
+    color: #fff;
+    transition: background 0.5s, color 0.5s;
+}
+a { color: #1da1f2; text-decoration:none; transition: 0.3s;}
+a:hover { text-decoration: underline; transform: scale(1.05);}
+.container { max-width:900px; margin:auto; padding:20px;}
+h1 {
+    font-size:3em;
+    text-align:center;
+    margin-bottom:5px;
+    background: linear-gradient(270deg,#ff6ec4,#7873f5,#4ade80,#facc15,#ff6ec4);
+    background-size: 1000% 1000%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 15s ease infinite;
+}
+@keyframes gradient { 0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%} }
+h2 { font-size:2em; margin-top:40px; border-bottom:2px solid #fff; display:inline-block;}
+ul { list-style:none; padding:0;}
+li { margin-bottom:10px; }
+.badge img, .social img { transition: transform 0.3s; }
+.badge img:hover, .social img:hover { transform: scale(1.2) rotate(-5deg); }
+.section { margin-bottom:40px; }
+.skills img { margin:5px; width:50px; height:50px; transition: transform 0.3s;}
+.skills img:hover { transform: scale(1.2) rotate(10deg);}
+.dark-toggle { position:fixed; top:20px; right:20px; background:#fff;color:#000;padding:8px 12px;border-radius:5px;cursor:pointer; font-weight:bold;}
+.repo-card { background:#1e1f2b; padding:15px; margin-bottom:15px; border-radius:8px; transition: transform 0.3s;}
+.repo-card:hover { transform: scale(1.02); background:#282936;}
+iframe { border:none; width:100%; height:200px; border-radius:8px; }
+</style>
+</head>
+<body>
+<div class="dark-toggle" onclick="toggleDark()">Toggle Dark/Light</div>
+
+<div class="container">
+<h1>Premier848</h1>
+<p style="text-align:center; font-size:1.2em;">Aspiring Python Developer 🐍 | Open-Source Enthusiast | Creative Python & Linux Projects</p>
+
+<!-- About Me -->
+<div class="section">
+<h2>About Me</h2>
+<p>I am an aspiring Python developer exploring creative Python projects, AI basics, and Linux workflows. I contribute to open-source, document projects, and experiment with new Python ideas. Python scripting, automation, and creative project development are my main focus.</p>
+</div>
+
+<!-- Skills -->
+<div class="section">
+<h2>Skills & Tools</h2>
+<p>Python, Linux, GitHub, VSCode, HTML, CSS, Django, Flask, JS</p>
+</div>
+
+<!-- GitHub Stats -->
+<div class="section">
+<h2>GitHub Stats</h2>
+<!-- Replace username with Premier848 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Premier848&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Premier848&theme=dark" alt="GitHub Streak">
+</div>
+
+<!-- Contribution Graph -->
+<div class="section">
+<h2>Contribution Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premier848&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph">
+<p>Total Contributions: 392 in the last year</p>
+</div>
+
+<!-- Pinned Repositories -->
+<div class="section">
+<h2>Pinned Repositories</h2>
+
+<div class="repo-card">
+<h3><a href="https://github.com/Premier848/uxp-xd">uxp-xd</a></h3>
+<p>Documentation for XD UXP Plugin API (JavaScript)</p>
+</div>
+
+<div class="repo-card">
+<h3><a href="https://github.com/Premier848/titap_mystry">titap_mystry</a></h3>
+<p>Learn basics of Linux command line (Roff)</p>
+</div>
+
+<div class="repo-card">
+<h3><a href="https://github.com/Premier848/linux-letters">linux-letters</a></h3>
+<p>Creative Linux letters repo (Python)</p>
+</div>
+
+<div class="repo-card">
+<h3><a href="https://github.com/Premier848/project_2">project_2</a></h3>
+<p>Personal project repository</p>
+</div>
+
+<div class="repo-card">
+<h3><a href="https://github.com/Premier848/my-new-project">my-new-project</a></h3>
+<p>Personal project repository</p>
+</div>
+</div>
+
+<!-- Badges -->
+<div class="section">
+<h2>Badges & Achievements</h2>
+<img src="https://github.com/Premier848.png" alt="GitHub Avatar" style="width:80px; border-radius:50%;">
+<p>Committers.top Badge, Holopin Badges, GitHub Trophies</p>
+</div>
+
+<!-- Contact & Social -->
+<div class="section">
+<h2>Contact & Social</h2>
+<p>Email: <a href="mailto:germantranslator848@gmail.com">germantranslator848@gmail.com</a></p>
+<p>
+<a href="https://twitter.com/Premier848" target="_blank">Twitter</a> | 
+<a href="https://dev.to/Premier848" target="_blank">Dev.to</a> | 
+<a href="https://ko-fi.com/Premier848" target="_blank">Ko-fi</a>
 </p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python">
-  <img src="https://img.shields.io/badge/PEP8-Compliant-success">
-  <img src="https://img.shields.io/badge/pytest-Tested-orange">
-  <img src="https://img.shields.io/badge/Jupyter-Interactive-informational?logo=jupyter">
-</p>
+</div>
 
----
+<!-- JS -->
+<script>
+function toggleDark(){
+    if(document.body.style.background=='#fff'){
+        document.body.style.background='#0f111a';
+        document.body.style.color='#fff';
+    } else {
+        document.body.style.background='#fff';
+        document.body.style.color='#000';
+    }
+}
+</script>
 
-## 🧠 About Me
-
-- 🐍 Python developer focused on **real-world problem solving**
-- 📐 Strong background in **mathematics & algorithmic thinking**
-- 🧪 Passionate about **clean, testable, maintainable code**
-- 📊 Experienced with **Jupyter Lab & Google Colab**
-- 🎯 Building a professional Python portfolio for international opportunities
-
----
-
-## 🔭 Currently Working On
-
-- Python CLI applications
-- Data structures & algorithms implementations
-- Python for mathematical computing
-- Writing production-ready code with tests
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python patterns
-- Performance optimization
-- Python for scientific & analytical computing
-- Better software architecture & documentation
-
----
-
-## 👯 Open to Collaborate On
-
-- Python projects
-- Algorithmic challenges
-- Educational Python tools
-- Open-source Python utilities
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,jupyter,pytest,sqlite,json,csv,markdown" />
-</p>
-
----
-
-## 📂 Featured Python Projects
-
-### 📇 Contact Manager (CLI)
-- Add / Search / Edit / Delete contacts
-- Export to JSON / CSV
-- Fully tested with `pytest`
-- PEP 8 compliant
-
-### ⚡ Algorithms & Data Structures
-- Sorting & searching algorithms
-- Recursion patterns
-- Complexity analysis
-- Clean and educational implementations
-
-### 📊 Python + Mathematics
-- Function visualization
-- Complex numbers & analysis
-- Interactive notebooks
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&margin-w=10&theme=flat" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact" />
-</p>
-
----
-
-## 🎯 Goals
-
-- Build a strong Python-based GitHub profile
-- Master algorithmic problem solving
-- Prepare for global Python roles
-- Contribute to open-source projects
-
----
-
-## 📬 Contact
-
-- 💼 GitHub: https://github.com/USERNAME
-
-<p align="center">
-  ⭐ If you find my work useful, consider giving a star!
-</p>
+</body>
+</html>
